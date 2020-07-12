@@ -1,0 +1,25 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+lib/
+.idea/
+!.idea/codeStyleSettings.xml
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+releases
